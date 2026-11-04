@@ -22,7 +22,7 @@ This stage focuses on understanding the **distribution, variability, and hidden 
 
 ## 📉 Normality Check — Life Expectancy
 
-![Histogram](images/histogram.png)
+![Histogram](Images/histogram.png)
 
 ### 📌 What the Plot Shows
 
@@ -48,7 +48,7 @@ The concentration around 70–75 years represents the global average, while the 
 
 ## 📊 Outlier Detection — Boxplot
 
-![Boxplot Before](images/boxplot_before.png)
+![Boxplot Before](Images/boxplot_before.png)
 
 ### 📌 What the Plot Shows
 
@@ -73,7 +73,7 @@ This highlights inequality in global health conditions and the existence of extr
 
 ## 📊 Outlier Treatment (IQR Method)
 
-![Boxplot After](images/boxplot_after.png)
+![Boxplot After](Images/boxplot_after.png)
 
 ### 📌 What the Plot Shows
 
@@ -102,7 +102,7 @@ This improves statistical reliability while maintaining data integrity.
 
 ### 🔹 Bar Plot — GDP Groups vs Life Expectancy
 
-![GDP Plot](images/gdp_groups.png)
+![GDP Plot](Images/gdp_groups.png)
 
 ### 📌 What the Plot Shows
 
@@ -138,7 +138,7 @@ It shows that **economic development improves life expectancy**, but is not the 
 
 ### 🔹 Box Plot — Life Expectancy by Country Status
 
-![Box Plot](images/boxplot_status.png)
+![Box Plot](Images/boxplot_status.png)
 
 ### 📌 What the Plot Shows
 
@@ -185,7 +185,7 @@ The boxplot provides a deeper comparison by showing not just differences in aver
 
 ### 🔹 Heatmap — Correlation Analysis (All Numerical Features)
 
-![Heatmap](images/heatmap.png)
+![Heatmap](Images/heatmap.png)
 
 ### 📌 What the Plot Shows
 
@@ -237,7 +237,7 @@ It enables us to **prioritize variables** based on their strength of relationshi
 
 ### 🔹 Model 1 — Schooling vs Life Expectancy
 
-![Schooling Regression](images/reg_schooling.png)
+![Schooling Regression](Images/reg_schooling.png)
 
 ### 📌 Detailed Analysis
 
@@ -261,7 +261,7 @@ This confirms that higher education leads to better health awareness, improved l
 
 ### 🔹 Model 2 — Adult Mortality vs Life Expectancy
 
-![Mortality Regression](images/reg_mortality.png)
+![Mortality Regression](Images/reg_mortality.png)
 
 ### 📌 Detailed Analysis
 
@@ -353,7 +353,7 @@ This confirms that **development level is a key determinant of population health
 
 ### 🔹 Visualization
 
-![Hypothesis Plot](images/hypothesis_ttest_comparison.png)
+![Hypothesis Plot](Images/hypothesis_ttest_comparison.png)
 
 ---
 
